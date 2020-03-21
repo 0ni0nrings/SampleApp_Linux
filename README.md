@@ -2,7 +2,7 @@
 Sample Linux App for CodeDeploy Demo
 
 # Link for Linux Sample App
-[I'm an inline-style link](http://s3.amazonaws.com/aws-codedeploy-us-east-1/samples/latest/SampleApp_Linux.zip)
+[Linux Sample App Link](http://s3.amazonaws.com/aws-codedeploy-us-east-1/samples/latest/SampleApp_Linux.zip)
 
 # User Data for Auto Scaling Group
 #!/bin/bash
